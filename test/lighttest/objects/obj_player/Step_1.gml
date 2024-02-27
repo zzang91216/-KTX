@@ -1,0 +1,1 @@
+vspeed = max(min(10,vspeed+0.7),-15) //gravity

@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite_index,image_index,obj_camera.px,obj_camera.py,image_xscale,image_yscale,image_angle,c_white,image_alpha)
